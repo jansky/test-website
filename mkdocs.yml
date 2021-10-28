@@ -1,0 +1,13 @@
+site_name: Ian's Website
+site_url: https://jansky.github.io/test-website
+nav:
+  - Home: index.md
+  - About: about.md
+  - Notebooks: notebooks_list.md
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets

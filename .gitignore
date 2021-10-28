@@ -1,0 +1,12 @@
+site/
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.dir-locals.el
+
+**/.ipynb_checkpoints/
