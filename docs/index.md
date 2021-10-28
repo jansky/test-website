@@ -148,7 +148,7 @@ see examples of syntax for these elements, see
 
 If you add files of a type other than Markdown (e.g., images, IPython
 Notebooks) into the `docs/` folder, these will be copied over to your
-built website. See for example the [Notebooks](notebooks.md) section
+built website. See for example the [Notebooks](notebooks_list.md) section
 of this template which provides links to download IPython notebooks in
 this repository.
 
